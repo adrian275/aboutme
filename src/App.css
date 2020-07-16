@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+.background-darkgrey {
+  background-color:#1C1C1C;
+}
+
+.navbar {
+  padding: 40px 80px;
+}
+
+.social-navbar {
+  height: 100px;
+  margin: 80px 50px;
+  padding: 0px 10px;
+}
+
+.text-white {
+  color: white;
+}
+
+.text-teal {
+  color: #44D7B6;
+}
+
+.nav-link a:hover{
+  color: #44D7B6;
+  font-weight: 400;
+}
+
+
+
+
+
