@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #1C1C1C;
 }
 
 .App-logo {
@@ -14,7 +15,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #1C1C1C;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -37,13 +38,30 @@
   }
 }
 
-.background-darkgrey {
-  background-color:#1C1C1C;
+.navbar {
+  padding-top: 60px;
+  padding-left: 40px;
+  padding-right: 40px;
+  height: 40px;
+  width: 100%;
 }
 
-.navbar {
-  padding: 40px 80px;
+
+.background-darkgrey {
+  height: 100%;
+  width: 100%;
+  padding: 20px;
+  background-color: #4B4B4B;
 }
+
+.container {
+  min-height: 800px;
+  max-width: 1280px;
+  background-color: #1C1C1C;
+  border-radius: 8px;
+  margin: 0 auto;
+}
+
 
 .social-navbar {
   height: 100px;
@@ -64,6 +82,34 @@
   font-weight: 400;
 }
 
+html, body {
+  height:100%;
+  margin: 0;
+  background-color: #4B4B4B;
+} 
+
+.footer {
+  border-top: solid 1px #44D7B6;
+  padding-bottom: 20px;
+}
+
+.bg-color-test {
+  background-color: blue;
+}
+
+.bg-color-test1 {
+  background-color: orange;
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center {
+  text-align: center;
+}
 
 
 

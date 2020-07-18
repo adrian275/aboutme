@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="25px" viewBox="0 0 104 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Adrian_logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-164.000000, -72.000000)">
+            <g id="Adrian_logo" transform="translate(164.000000, 72.000000)">
+                <circle id="Oval" fill="#44D7B6" cx="12.5" cy="12.5" r="12.5"></circle>
+                <text id="Adrian-Rios" font-family="Avenir-Heavy, Avenir" font-size="14" font-weight="600" fill="#FFFFFF">
+                    <tspan x="30" y="17">Adrian</tspan>
+                    <tspan x="73.568" y="17" font-family="Avenir-Book, Avenir" font-weight="normal"> Rios</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

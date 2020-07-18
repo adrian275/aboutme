@@ -7,12 +7,16 @@ class Main extends Component {
 
     render() {
         return (
-            <div className="background-darkgrey">
-                <Header />
+            <div className="background-darkgrey" height="100vh">
+                <div className="container">
+                    <Header />
+            
                     <Home />
-                <Footer />
+             
+                 <Footer />
+                </div>
             </div>
-        );
+        );  
     };       
 }
 
