@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="183px" height="183px" viewBox="0 0 183 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Resume</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-515.000000, -173.000000)">
+            <g id="Resume" transform="translate(515.500000, 173.032466)">
+                <path d="M-4.26325641e-14,1.42108547e-14 C98.5469872,1.82904402 178.254479,80.7126282 181.40336,178.930526 L181.475,181.966534 L-4.26325641e-14,181.966534 L-4.26325641e-14,1.42108547e-14 Z" id="Path" fill="#44D7B6"></path>
+                <text font-family="Avenir-Light, Avenir" font-size="24" font-weight="300" fill="#FFFFFF">
+                    <tspan x="12.5" y="157.967534">Resume</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

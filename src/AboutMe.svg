@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="184px" height="183px" viewBox="0 0 184 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>AboutMe</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-327.000000, -173.000000)">
+            <g id="AboutMe" transform="translate(327.023839, 173.020000)">
+                <g id="Path-2" fill="#404042">
+                    <path d="M182.476161,-2.84217094e-14 L182.476161,181.979581 L-1.42108547e-14,181.979581 C1.58643272,82.2085628 82.1533822,1.62229726 181.916848,0.00478471442 L182.476161,-2.84217094e-14 Z" id="Path"></path>
+                </g>
+                <text id="About-Me" font-family="Avenir-Light, Avenir" font-size="24" font-weight="300" fill="#FFFFFF">
+                    <tspan x="59.360161" y="157.98">About Me</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
